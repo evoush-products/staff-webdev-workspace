@@ -72,9 +72,10 @@ header ul li a
 }
 .content .textbox h3 span
 {
-    color: #017143;
-    font-size: 1.2em;
+    color: red;
+    font-size: 1.4em;
     font-weight: 400;
+    font-style: initial;
 }
 .content .textbox p
 {
@@ -85,7 +86,7 @@ header ul li a
     display: inline-block;
     margin-top: 20px;
     padding: 8px 20px;
-    background: #017143;
+    background:red;
     color: #fff;
     border-radius: 40px;
     font-weight: 500;
